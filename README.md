@@ -12,7 +12,7 @@
 
         - More details are available inside the code
         
-    iii- Cross Validation and Training of the model
+    iii- Choice of Hyperparameters
     
         - I used Principal Component Analysis to selecct the most important features to avoid overfitting
     
