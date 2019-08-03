@@ -10,7 +10,7 @@
         
     ii- Data Preparation and Feature Scaling
 
-        - More details are available in the code
+        - More details are available inside the code
         
     iii- Cross Validation and Training of the model
     
@@ -29,3 +29,5 @@
     - Without hyperparameters optimization, the mean absolute error on the end of day stock price of Nokia is about 0.4$
     - With hyperparameters optimization, the mean absolute error on the end of day stock price of Nokia is about 0.3$
     
+- The Principal Component Analysis on all the features show that the most important feature is the Open Day Price. That means for each day, given the Open Day Nokia Stock Price, we can predict the end of day stock price with this model (but trained with more recent data). 
+- For futher details, have a look inside the python code.
